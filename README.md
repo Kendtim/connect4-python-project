@@ -18,9 +18,3 @@ The goal is to connect four of your pieces horizontally, vertically, or diagonal
 ## Technologies
 
 - Python
-
-## How to Run
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Kendtim/connect4-python-project.git
